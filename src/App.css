@@ -1,0 +1,18 @@
+.border {
+  width: 100px;
+  height: 100px;
+  background-color: #6681cd;
+  cursor: pointer;
+}
+.borderNew {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: #70d7a2;
+  cursor: pointer;
+  text-align: center;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
